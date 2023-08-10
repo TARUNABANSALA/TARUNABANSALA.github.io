@@ -1,25 +1,32 @@
-/* Style for the contact information */
-.contact-info {
-    float: left;
-    margin-right: 20px; /* Add margin to create spacing from the photo */
-}
-
-/* Style for the profile photo */
-.profile-photo {
-    float: right;
-    width: 100px; /* Adjust the width as needed */
-    height: auto;
-    margin: 0 20px 10px 10px; /* Adjust margins as needed */
-    border-radius: 50%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
+/* Styling for the profile header */
+.profile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.profile-photo {
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info {
+    flex: 1;
+    margin-left: 20px; /* Adjust the margin as needed */
+}
+
+/* Styling for other sections */
 header {
     background-color: #333;
     color: #fff;
