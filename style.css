@@ -1,8 +1,14 @@
+/* Adjustments for the contact information */
+.contact-info {
+    float: left;
+}
+
+/* Style for the profile photo */
 .profile-photo {
     float: right;
-    width: 150px;
+    width: 100px; /* Adjust the width as needed */
     height: auto;
-    margin: 0 0 20px 20px;
+    margin: 0 20px 10px 10px; /* Adjust margins as needed */
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
