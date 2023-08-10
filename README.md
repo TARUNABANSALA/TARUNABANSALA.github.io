@@ -1,4 +1,4 @@
-tarunabansala.github.io/
+# TARUNABANSALA.github.io
 
  Hi, I’m TARUNABANSALA
 Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
 
 💞️ I’m looking to collaborate on data-driven projects that involve extracting insights from large datasets, building predictive models, and creating interactive data visualizations.
 
+📫 How to reach me: tarunasbansala@gmail.com
+
+You can explore my **Magical Toolbox** and more on my [GitHub Pages site](https://TARUNABANSALA.github.io).
 📫 How to reach me: tarunasbansala@gmail.com
 
 You can explore my **Magical Toolbox** and more on my [GitHub Pages site](https://TARUNABANSALA.github.io).
