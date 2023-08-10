@@ -1,6 +1,7 @@
-/* Adjustments for the contact information */
+/* Style for the contact information */
 .contact-info {
     float: left;
+    margin-right: 20px; /* Add margin to create spacing from the photo */
 }
 
 /* Style for the profile photo */
