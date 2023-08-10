@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I'm glad you stopped by. Here's a bit about me:
 You can explore my **Magical Toolbox** and more on my [GitHub Pages site](https://TARUNABANSALA.github.io).
 📫 How to reach me: tarunasbansala@gmail.com
 
-You can explore my **Magical Toolbox** and more on my [GitHub Pages site](https://TARUNABANSALA.github.io).
+
