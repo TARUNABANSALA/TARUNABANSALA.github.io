@@ -56,6 +56,10 @@ ul {
     margin-top: 0;
 }
 
+.project {
+    margin-bottom: 20px; /* Add space between project entries */
+}
+
 a {
     color: #3776AB;
     text-decoration: none;
