@@ -24,13 +24,11 @@ body {
     margin-right: 200px;
 }
 
-/* .contact-info {
-    flex: 1;
-    margin-left: 20px; /* Adjust the margin as needed */
-}
 .contact-info {
-    margin-left: 10px; /* Adjust the margin to shift the contact info closer to the image */
-} */
+    flex: 1;
+    margin-right: 20px; /* Adjust the margin as needed */
+}
+
 
 /* Styling for other sections */
 header {
