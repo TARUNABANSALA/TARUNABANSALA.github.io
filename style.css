@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: rgba(16, 137, 236, 0.776);
+    background-color: rgba(33, 51, 66, 0.776);
     color: #fff;
 }
 
@@ -21,18 +21,18 @@ body {
     height: auto;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-right: 200px;
+    margin-left: 200px;
 }
 
 .contact-info {
     flex: 1;
-    margin-left: 30px; /* Adjust the margin as needed */
+    margin-left: 5px; /* Adjust the margin as needed */
 }
 
 
 /* Styling for other sections */
 header {
-    background-color: #197df8;
+    background-color: #3e5572;
     color: #fff;
     text-align: center;
     padding: 20px;
