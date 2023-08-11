@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: rgba(15, 146, 194, 0.776);
+    background-color: rgba(16, 137, 236, 0.776);
     color: #fff;
 }
 
@@ -24,14 +24,17 @@ body {
     margin-right: 200px;
 }
 
-.contact-info {
+/* .contact-info {
     flex: 1;
     margin-left: 20px; /* Adjust the margin as needed */
 }
+.contact-info {
+    margin-left: 10px; /* Adjust the margin to shift the contact info closer to the image */
+} */
 
 /* Styling for other sections */
 header {
-    background-color: #09c1ce;
+    background-color: #197df8;
     color: #fff;
     text-align: center;
     padding: 20px;
